@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="978-5-9614-3976-1" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Мозг освобожденный: Как предотвратить перегрузки и использовать свой потенциал на полную мощь</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Об авторе</text>
+      </navLabel>
+      <content src="Text/content04.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Благодарности автора</text>
+      </navLabel>
+      <content src="Text/content05.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Для вас ли эта книга?</text>
+      </navLabel>
+      <content src="Text/content06.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Часть I. ВАШ МЫСЛЯЩИЙ МОЗГ И ДВА ЕГО ЗАКЛЯТЫХ ВРАГА. ПРЕДУПРЕЖДЕН — ЗНАЧИТ ВООРУЖЕН</text>
+      </navLabel>
+      <content src="Text/content1.html"/>
+   
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>1. Мы все — работники умственного труда, и наш успех зависит от нашей интеллектуальной продуктивности</text>
+      </navLabel>
+      <content src="Text/content2.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>2. Проблема не в инструментах ИКТ, а в их неправильном использовании</text>
+      </navLabel>
+      <content src="Text/Section0001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>3. Удивительные факты о нашем мозге</text>
+      </navLabel>
+      <content src="Text/Section0002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>4. Наш уникальный мыслящий мозг и его друзья-враги</text>
+      </navLabel>
+      <content src="Text/Section0003.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>5. Секрет скорости рефлекторного мозга: автоматизмы и стереотипы</text>
+      </navLabel>
+      <content src="Text/Section0004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>6. Эмоции: мощная сила на стыке рефлекторного и рефлексирующего мозга</text>
+      </navLabel>
+      <content src="Text/Section0005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>7. Наш архивирующий мозг нуждается в перерывах</text>
+      </navLabel>
+      <content src="Text/Section0006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>8. Мыслящий мозг и архивирующий мозг нуждаются в нашей помощи!</text>
+      </navLabel>
+      <content src="Text/Section0007.html"/>
+    </navPoint> </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Часть II. КАК МЫ СОБСТВЕННОРУЧНО ЗАКОВЫВАЕМ НАШ МЫСЛЯЩИЙ МОЗГ</text>
+      </navLabel>
+      <content src="Text/content3.html"/>
+   
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>1. Когда вы ограничиваете ваш мыслящий мозг, то рискуете гораздо большим, нежели просто снижением интеллектуальной продуктивности</text>
+      </navLabel>
+      <content src="Text/content4.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>2. Оковы для мозга № 1: гиперподключенность (главный источник проблем)</text>
+      </navLabel>
+      <content src="Text/Section0008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>3. Оковы для мозга № 2: многозадачность и переключение между задачами: человек отвлекающийся</text>
+      </navLabel>
+      <content src="Text/Section0009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>4. Оковы для мозга № 3: хронический стресс подрывает высшие интеллектуальные функции нашего мозга</text>
+      </navLabel>
+      <content src="Text/Section0010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>5. Оковы для мозга № 4: отсутствие перерывов и недостаток сна (как тревожный звонок будильника)</text>
+      </navLabel>
+      <content src="Text/Section0011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>6. Оковы для мозга № 5 (вне вашего контроля): офисы открытого типа вредны для мозга</text>
+      </navLabel>
+      <content src="Text/Section0012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>7. Электронная почта как оружие массового умственного поражения для человека отвлекающегося</text>
+      </navLabel>
+      <content src="Text/Section0013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>8. Самые опасные оковы для мозга: использование телефона во время вождения</text>
+      </navLabel>
+      <content src="Text/Section0014.html"/>
+    </navPoint> </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Часть III. КАК ОСВОБОДИТЬ СВОЙ МОЗГ ОТ ОКОВ. ИНТЕЛЛЕКТУАЛЬНЫЙ ПРОРЫВ НА ТРЕХ УРОВНЯХ</text>
+      </navLabel>
+      <content src="Text/content5.html"/>
+   
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>1. Простота — это разрешенная сложность. Но «просто» — не значит «легко»</text>
+      </navLabel>
+      <content src="Text/content6.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>2. Освобождение мозга от оков на уровне «Я»</text>
+      </navLabel>
+      <content src="Text/Section0015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>3. Освобождение мозга от оков на уровне «Мы»</text>
+      </navLabel>
+      <content src="Text/Section0016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>4. Освобождение мозга от оков на уровне «Они»: все вышеперечисленное плюс…</text>
+      </navLabel>
+      <content src="Text/Section0017.html"/>
+    </navPoint> </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Заключение</text>
+      </navLabel>
+      <content src="Text/Section0018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Послесловие</text>
+      </navLabel>
+      <content src="Text/content7.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Примечания</text>
+      </navLabel>
+      <content src="Text/content8.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
